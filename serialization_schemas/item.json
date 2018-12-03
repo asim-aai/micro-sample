@@ -1,0 +1,10 @@
+{
+    "doc": "An item.",
+    "name": "Item",
+    "namespace": "micro-sample",
+    "type": "list",
+    "fields": [
+        {"id": "station", "type": "int"},
+        {"name": "time", "type": "string"}
+    ]
+}
